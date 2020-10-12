@@ -2,7 +2,7 @@ package com.example.miwok
 import android.os.Bundle
 import android.widget.ListView
 import androidx.appcompat.app.AppCompatActivity
-import kotlinx.android.synthetic.main.list_item.view.*
+
 
 
 

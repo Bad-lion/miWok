@@ -31,11 +31,6 @@
         android:background="@color/category_phrases"
         android:text="@string/category_phrases" />
 
-    <TextView
-        android:id="@+id/test"
-        style="@style/CategoryStyle"
-        android:background="@android:color/black"
-        android:text="TEST" />
 
 
 </LinearLayout>
