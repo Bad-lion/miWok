@@ -36,10 +36,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent (this, PhrasesActivity::class.java))
         }
 
-        val testActivity: TextView = findViewById(R.id.test)
-        testActivity.setOnClickListener{
-            startActivity(Intent (this, TestActivity::class.java))
-        }
+
 
     }
 
