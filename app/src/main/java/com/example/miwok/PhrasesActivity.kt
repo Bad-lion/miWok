@@ -13,9 +13,11 @@ class PhrasesActivity : AppCompatActivity() {
 
         var lst = mutableListOf<examp>()
 
-        lst.add(examp("any phrases", "another phrases"))
-        lst.add(examp("any phrases asd", "another phrases version 2"))
-        lst.add(examp("any phrases asfdsa", "another phrases version 3"))
+        lst.add(examp("where are you going?", "minto wuksus"))
+        lst.add(examp("what's your name", "tinna oyase'na"))
+        lst.add(examp("my name is ...", "oyaaset..."))
+        lst.add(examp("how are you feeling?", "michakses?"))
+        lst.add(examp("i'm feeling good", "kuchi achit"))
 
 
 
